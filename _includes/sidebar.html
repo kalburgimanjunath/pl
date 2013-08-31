@@ -1,18 +1,17 @@
-
-<h3>About Me</h3>
-
-<p>Donec libero libero, bibendum non condimentum ac, ullamcorper at sapien.\
- Duis feugiat urna vel justo cursus facilisis. Vivamus ligula dui, convalli\
-s a varius vitae, facilisis eget magna.</p>
-
-{% for post in site.posts limit: 5 %}
-<div class="row-fluid">
-  <div class="span12">
-    <h2>{{ post.title }}</h2>
-    <h4>{{ post.date | date_to_long_string }}</h4>
-    <p>
-      <a href="{{ post.url }}">Read Post</a>
-    </p>
-  </div>
+<div class="span4 well">
+    <ul class="nav nav-list">
+        <li class="nav-header">Our Services</li>
+        <li class="active"><a href="#">Overview</a></li>
+        <li><a href="#">Web Designing</a></li>
+        <li><a href="#">Web Development</a></li>
+        <li><a href="#">Android Applications</a></li>
+        <li class="divider"></li>
+        <li class="nav-header">Our Services</li>
+        <li><a href="#">Overview</a></li>
+        <li><a href="#">Web Designing</a></li>
+        <li><a href="#">Web Development</a></li>
+        <li><a href="#">Android Applications</a></li>
+        <li class="divider"></li>
+        <li><a href="#">Help</a></li>
+    </ul>
 </div>
-{% endfor %}
