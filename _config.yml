@@ -2,4 +2,4 @@ auto:        true
 lsi:         false
 server_port: 5000
 pygments: true
-baseurl:     ./pl/
+source: ./pl
