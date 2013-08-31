@@ -1,3 +1,4 @@
+source:      .
 auto:        true
 lsi:         false
 server_port: 5000
