@@ -1,6 +1,5 @@
-
 auto:        true
 lsi:         false
 server_port: 5000
 pygments: true
-baseurl:     http://kalburgimanjunath/pl
+baseurl:     ./pl/
