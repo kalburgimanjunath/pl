@@ -4,10 +4,10 @@ layout: default
 ---
 <div id="projects">
 	<div class="project">
-		<a href="http://icliniq.com" target="_blank"><h3>icliniq</h3><img src="/img/permeate.png" /></a> 
+		<a href="http://icliniq.com" target="_blank"><h3>icliniq</h3><img src="./img/icliniq.png" /></a> 
 	</div>
 	<div class="project">
-		<a href="http:/alienjobs.com" target="_blank"><h3>alienjobs</h3><img src="/img/costarred.png" /></a> 
+		<a href="http:/alienjobs.com" target="_blank"><h3>alienjobs</h3><img src="./img/alienjobs.png" /></a> 
 	</div>
 	<div class="project">
 		<a href="http://globalsinc.com" target="_blank"><h3>globalsinc</h3><img src="/img/thrift.png" /></a> 

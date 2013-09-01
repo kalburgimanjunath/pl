@@ -6,6 +6,5 @@ pygments:    true
 markdown: rdiscount
 name: manjunath kalburgi
 description: personal website
-url: http://kalburgimanjunath.github.io/pl/
 
 permalink: /:categories/:title
