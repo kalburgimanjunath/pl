@@ -4,7 +4,7 @@ layout: default
 ---
 <div id="projects">
 	<div class="project">
-		<a href="http://permeate.im" target="_blank"><h3>icliniq</h3><img src="/img/permeate.png" /></a> 
+		<a href="http://icliniq.com" target="_blank"><h3>icliniq</h3><img src="/img/permeate.png" /></a> 
 	</div>
 	<div class="project">
 		<a href="http://costarred.im" target="_blank"><h3>alienjobs</h3><img src="/img/costarred.png" /></a> 
