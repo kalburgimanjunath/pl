@@ -7,13 +7,13 @@ layout: default
 		<a href="http://icliniq.com" target="_blank"><h3>icliniq</h3><img src="/img/permeate.png" /></a> 
 	</div>
 	<div class="project">
-		<a href="http://costarred.im" target="_blank"><h3>alienjobs</h3><img src="/img/costarred.png" /></a> 
+		<a href="http:/alienjobs.com" target="_blank"><h3>alienjobs</h3><img src="/img/costarred.png" /></a> 
 	</div>
 	<div class="project">
-		<a href="http://thrift.im" target="_blank"><h3>globalsinc</h3><img src="/img/thrift.png" /></a> 
+		<a href="http://globalsinc.com" target="_blank"><h3>globalsinc</h3><img src="/img/thrift.png" /></a> 
 	</div>
 	<div class="project">
-		<a href="http://upfrontpodcast.com" target="_blank"><h3>eduwiki</h3><img src="/img/upfront.png" /></a> 
+		<a href="http://hostg.in:8805/eduwiki/source/site" target="_blank"><h3>eduwiki</h3><img src="/img/upfront.png" /></a> 
 	</div>
 	<div class="project">
 		<a href="http://musings.im/" target="_blank"><h3>powar school</h3><img src="/img/musings.png" /></a> 
