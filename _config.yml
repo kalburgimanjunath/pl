@@ -3,8 +3,9 @@ lsi:         false
 server_port: 6000
 base_url: .
 pygments:    true
-permalink: pretty
 markdown: rdiscount
 name: manjunath kalburgi
 description: personal website
 url: http://kalburgimanjunath.github.io/pl/
+
+permalink: /:categories/:title

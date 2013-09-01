@@ -6,5 +6,12 @@ $('.dropdown-toggle').dropdown()
 
 </script>
 <script src="{{ASSET_PATH}}js/bootstrap-dropdown.js"></script>
+<script src="{{ASSET_PATH}}js/bootstrap-tab.js"></script>
+ <script>
+  $('#myTab a').click(function (e) {
+  e.preventDefault();
+  $(this).tab('show');
+})
+</script>
   </body>
 </html>

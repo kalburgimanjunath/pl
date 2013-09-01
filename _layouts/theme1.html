@@ -1,0 +1,41 @@
+{% include header.html %}
+
+  <div class="span3">
+    {% include sidebar.html %}
+  </div>
+  <div class="span9">
+    {{ content }}
+    
+	<ul class="nav nav-tabs">
+	
+	  <li><a href="#html" data-toggle="tab">HTML</a></li>
+	  <li><a href="#javascript" data-toggle="tab">Javascript</a></li>
+	  <li><a href="#css" data-toggle="tab">CSS</a></li>
+	  <li><a href="#symfony" data-toggle="tab">Symfony</a></li>
+	</ul>
+	<div class="tab-content">
+	  <div class="tab-pane active" id="html">html</div>
+	  <div class="tab-pane" id="css">css</div>
+	  <div class="tab-pane" id="javascript">javascript</div>
+	  <div class="tab-pane" id="symfony">symfony</div>
+	</div>
+    
+<!--
+{% for post in site.posts limit: 5 %}
+<div class="row-fluid">
+  <div class="span12">
+    <h2>{{ post.title }}</h2>
+    <h4>{{ post.date | date_to_long_string }}</h4>
+    <p>
+      <a href="{{ post.url }}">Read Post</a>
+    </p>
+  </div>
+</div>
+{% endfor %}
+  </div>-->
+ {% for cat in site.categories %}
+    <li>{{ cat[0] }}</li>
+{% endfor %}
+
+{% include footer.html %}
+
