@@ -1,4 +1,3 @@
-auto:        true
 lsi:         false
 port: 5000
 base_url: ./
