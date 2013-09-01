@@ -1,0 +1,1 @@
+rake theme:install name="theme-the-program"
