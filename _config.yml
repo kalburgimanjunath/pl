@@ -1,7 +1,7 @@
 auto:        true
 lsi:         false
 server_port: 6000
-base_url: .
+base_url: ./
 pygments:    true
 markdown: rdiscount
 name: manjunath kalburgi
